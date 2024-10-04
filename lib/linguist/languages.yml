@@ -3628,6 +3628,13 @@ Just:
   - ".just"
   ace_mode: text
   language_id: 128447695
+KCL:
+  type: programming
+  color: "#64bcc1"
+  extensions:
+  - ".k"
+  tm_scope: source.kcl
+  ace_mode: text
 KRL:
   type: programming
   color: "#28430A"
