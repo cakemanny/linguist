@@ -1320,6 +1320,9 @@
 [submodule "vendor/grammars/vscode-just"]
 	path = vendor/grammars/vscode-just
 	url = https://github.com/nefrob/vscode-just.git
+[submodule "vendor/grammars/vscode-kcl"]
+	path = vendor/grammars/vscode-kcl
+	url = https://github.com/kcl-lang/vscode-kcl.git
 [submodule "vendor/grammars/vscode-lean"]
 	path = vendor/grammars/vscode-lean
 	url = https://github.com/leanprover/vscode-lean
