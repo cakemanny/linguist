@@ -3635,6 +3635,7 @@ KCL:
   - ".k"
   tm_scope: source.kcl
   ace_mode: text
+  language_id: 1052003890
 KRL:
   type: programming
   color: "#28430A"
